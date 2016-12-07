@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "BCMainVC.h"
 
 @interface ViewController ()
 
@@ -16,8 +17,21 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+
+    UIButton *button = [UIButton new];
+    button.frame = CGRectMake(100, 100, 100, 40);
+    [button setTitle:@"跳转" forState:0];
+    [button setBackgroundColor:[UIColor cyanColor]];
+    [self.view addSubview:button];
+    [button addTarget:self action:@selector(buttonAction:) forControlEvents:UIControlEventTouchUpInside];
+    
 }
+
+- (void)buttonAction:(UIButton*)sender
+{
+    [self presentViewController:[BCMainVC new] animated:YES completion:nil];
+}
+
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];

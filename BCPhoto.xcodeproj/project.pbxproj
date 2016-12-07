@@ -15,6 +15,40 @@
 		843B2F9C1DF51A0B001F13CD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 843B2F9A1DF51A0B001F13CD /* LaunchScreen.storyboard */; };
 		843B2FA71DF51A0B001F13CD /* BCPhotoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 843B2FA61DF51A0B001F13CD /* BCPhotoTests.m */; };
 		843B2FB21DF51A0B001F13CD /* BCPhotoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 843B2FB11DF51A0B001F13CD /* BCPhotoUITests.m */; };
+		843B2FCA1DF522DD001F13CD /* BCMainVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 843B2FC91DF522DD001F13CD /* BCMainVC.m */; };
+		843B2FE71DF547A0001F13CD /* 1：1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FCB1DF547A0001F13CD /* 1：1@2x.png */; };
+		843B2FE81DF547A0001F13CD /* 3：4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FCC1DF547A0001F13CD /* 3：4@2x.png */; };
+		843B2FE91DF547A0001F13CD /* 16：9@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FCE1DF547A0001F13CD /* 16：9@3x.png */; };
+		843B2FEA1DF547A0001F13CD /* 1：1@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FCF1DF547A0001F13CD /* 1：1@3x.png */; };
+		843B2FEB1DF547A0001F13CD /* 3：4@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FD01DF547A0001F13CD /* 3：4@3x.png */; };
+		843B2FEC1DF547A0001F13CD /* 4：3@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FD11DF547A0001F13CD /* 4：3@3x.png */; };
+		843B2FED1DF547A0001F13CD /* 9：16@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FD21DF547A0001F13CD /* 9：16@3x.png */; };
+		843B2FEE1DF547A0001F13CD /* free@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FD31DF547A0001F13CD /* free@3x.png */; };
+		843B2FEF1DF547A0001F13CD /* 关闭@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FD41DF547A0001F13CD /* 关闭@3x.png */; };
+		843B2FF01DF547A0001F13CD /* 操控点@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FD51DF547A0001F13CD /* 操控点@3x.png */; };
+		843B2FF11DF547A0001F13CD /* 旋转@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FD61DF547A0001F13CD /* 旋转@3x.png */; };
+		843B2FF21DF547A0001F13CD /* 确认@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FD71DF547A0001F13CD /* 确认@3x.png */; };
+		843B2FF31DF547A0001F13CD /* 编辑icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FD81DF547A0001F13CD /* 编辑icon@3x.png */; };
+		843B2FF41DF547A0001F13CD /* 重置-@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FD91DF547A0001F13CD /* 重置-@3x.png */; };
+		843B2FF51DF547A0001F13CD /* 重置未激活@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FDA1DF547A0001F13CD /* 重置未激活@3x.png */; };
+		843B2FF61DF547A0001F13CD /* 镜像@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FDB1DF547A0001F13CD /* 镜像@3x.png */; };
+		843B2FF71DF547A0001F13CD /* 4：3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FDC1DF547A0001F13CD /* 4：3@2x.png */; };
+		843B2FF81DF547A0001F13CD /* 9：16@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FDD1DF547A0001F13CD /* 9：16@2x.png */; };
+		843B2FF91DF547A0001F13CD /* 16：9@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FDE1DF547A0001F13CD /* 16：9@2x.png */; };
+		843B2FFA1DF547A0001F13CD /* 编辑icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FDF1DF547A0001F13CD /* 编辑icon@2x.png */; };
+		843B2FFB1DF547A0001F13CD /* 操控点@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FE01DF547A0001F13CD /* 操控点@2x.png */; };
+		843B2FFC1DF547A0001F13CD /* 关闭@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FE11DF547A0001F13CD /* 关闭@2x.png */; };
+		843B2FFD1DF547A0001F13CD /* 镜像@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FE21DF547A0001F13CD /* 镜像@2x.png */; };
+		843B2FFE1DF547A0001F13CD /* 确认@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FE31DF547A0001F13CD /* 确认@2x.png */; };
+		843B2FFF1DF547A0001F13CD /* 旋转@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FE41DF547A0001F13CD /* 旋转@2x.png */; };
+		843B30001DF547A0001F13CD /* 重置未激活@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FE51DF547A0001F13CD /* 重置未激活@2x.png */; };
+		843B30011DF547A0001F13CD /* 重置icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B2FE61DF547A0001F13CD /* 重置icon@2x.png */; };
+		843B30031DF547A7001F13CD /* free@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 843B30021DF547A7001F13CD /* free@2x.png */; };
+		84B9E3C41DF7EE360012912E /* BCConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B9E3C31DF7EE360012912E /* BCConstraint.m */; };
+		84FAFD101DF6938E00371B19 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 84FAFD0F1DF6938E00371B19 /* 1.jpg */; };
+		84FAFD131DF6D08200371B19 /* BCMaskView.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FAFD121DF6D08200371B19 /* BCMaskView.m */; };
+		84FAFD161DF6D7CA00371B19 /* BCGestureFun.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FAFD151DF6D7CA00371B19 /* BCGestureFun.m */; };
+		84FAFD191DF6D82700371B19 /* BCGeometryFun.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FAFD181DF6D82700371B19 /* BCGeometryFun.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +85,46 @@
 		843B2FAD1DF51A0B001F13CD /* BCPhotoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BCPhotoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		843B2FB11DF51A0B001F13CD /* BCPhotoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BCPhotoUITests.m; sourceTree = "<group>"; };
 		843B2FB31DF51A0B001F13CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		843B2FC81DF522DD001F13CD /* BCMainVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BCMainVC.h; sourceTree = "<group>"; };
+		843B2FC91DF522DD001F13CD /* BCMainVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BCMainVC.m; sourceTree = "<group>"; };
+		843B2FCB1DF547A0001F13CD /* 1：1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1：1@2x.png"; sourceTree = "<group>"; };
+		843B2FCC1DF547A0001F13CD /* 3：4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "3：4@2x.png"; sourceTree = "<group>"; };
+		843B2FCE1DF547A0001F13CD /* 16：9@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "16：9@3x.png"; sourceTree = "<group>"; };
+		843B2FCF1DF547A0001F13CD /* 1：1@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1：1@3x.png"; sourceTree = "<group>"; };
+		843B2FD01DF547A0001F13CD /* 3：4@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "3：4@3x.png"; sourceTree = "<group>"; };
+		843B2FD11DF547A0001F13CD /* 4：3@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "4：3@3x.png"; sourceTree = "<group>"; };
+		843B2FD21DF547A0001F13CD /* 9：16@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "9：16@3x.png"; sourceTree = "<group>"; };
+		843B2FD31DF547A0001F13CD /* free@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "free@3x.png"; sourceTree = "<group>"; };
+		843B2FD41DF547A0001F13CD /* 关闭@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "关闭@3x.png"; sourceTree = "<group>"; };
+		843B2FD51DF547A0001F13CD /* 操控点@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "操控点@3x.png"; sourceTree = "<group>"; };
+		843B2FD61DF547A0001F13CD /* 旋转@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "旋转@3x.png"; sourceTree = "<group>"; };
+		843B2FD71DF547A0001F13CD /* 确认@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "确认@3x.png"; sourceTree = "<group>"; };
+		843B2FD81DF547A0001F13CD /* 编辑icon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "编辑icon@3x.png"; sourceTree = "<group>"; };
+		843B2FD91DF547A0001F13CD /* 重置-@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "重置-@3x.png"; sourceTree = "<group>"; };
+		843B2FDA1DF547A0001F13CD /* 重置未激活@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "重置未激活@3x.png"; sourceTree = "<group>"; };
+		843B2FDB1DF547A0001F13CD /* 镜像@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "镜像@3x.png"; sourceTree = "<group>"; };
+		843B2FDC1DF547A0001F13CD /* 4：3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "4：3@2x.png"; sourceTree = "<group>"; };
+		843B2FDD1DF547A0001F13CD /* 9：16@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "9：16@2x.png"; sourceTree = "<group>"; };
+		843B2FDE1DF547A0001F13CD /* 16：9@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "16：9@2x.png"; sourceTree = "<group>"; };
+		843B2FDF1DF547A0001F13CD /* 编辑icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "编辑icon@2x.png"; sourceTree = "<group>"; };
+		843B2FE01DF547A0001F13CD /* 操控点@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "操控点@2x.png"; sourceTree = "<group>"; };
+		843B2FE11DF547A0001F13CD /* 关闭@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "关闭@2x.png"; sourceTree = "<group>"; };
+		843B2FE21DF547A0001F13CD /* 镜像@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "镜像@2x.png"; sourceTree = "<group>"; };
+		843B2FE31DF547A0001F13CD /* 确认@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "确认@2x.png"; sourceTree = "<group>"; };
+		843B2FE41DF547A0001F13CD /* 旋转@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "旋转@2x.png"; sourceTree = "<group>"; };
+		843B2FE51DF547A0001F13CD /* 重置未激活@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "重置未激活@2x.png"; sourceTree = "<group>"; };
+		843B2FE61DF547A0001F13CD /* 重置icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "重置icon@2x.png"; sourceTree = "<group>"; };
+		843B30021DF547A7001F13CD /* free@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "free@2x.png"; sourceTree = "<group>"; };
+		84B9E3C21DF7EE360012912E /* BCConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BCConstraint.h; sourceTree = "<group>"; };
+		84B9E3C31DF7EE360012912E /* BCConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BCConstraint.m; sourceTree = "<group>"; };
+		84B9E3C51DF7EE490012912E /* BCFitHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BCFitHeader.h; sourceTree = "<group>"; };
+		84FAFD0F1DF6938E00371B19 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		84FAFD111DF6D08200371B19 /* BCMaskView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BCMaskView.h; sourceTree = "<group>"; };
+		84FAFD121DF6D08200371B19 /* BCMaskView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BCMaskView.m; sourceTree = "<group>"; };
+		84FAFD141DF6D7CA00371B19 /* BCGestureFun.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BCGestureFun.h; sourceTree = "<group>"; };
+		84FAFD151DF6D7CA00371B19 /* BCGestureFun.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BCGestureFun.m; sourceTree = "<group>"; };
+		84FAFD171DF6D82700371B19 /* BCGeometryFun.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BCGeometryFun.h; sourceTree = "<group>"; };
+		84FAFD181DF6D82700371B19 /* BCGeometryFun.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BCGeometryFun.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +175,10 @@
 		843B2F8B1DF51A0B001F13CD /* BCPhoto */ = {
 			isa = PBXGroup;
 			children = (
+				843B2FC21DF51A6D001F13CD /* Resources */,
+				843B2FBF1DF51A51001F13CD /* Controller */,
+				843B2FC01DF51A51001F13CD /* Tools */,
+				843B2FC11DF51A51001F13CD /* View */,
 				843B2F8F1DF51A0B001F13CD /* AppDelegate.h */,
 				843B2F901DF51A0B001F13CD /* AppDelegate.m */,
 				843B2F921DF51A0B001F13CD /* ViewController.h */,
@@ -138,6 +216,82 @@
 				843B2FB31DF51A0B001F13CD /* Info.plist */,
 			);
 			path = BCPhotoUITests;
+			sourceTree = "<group>";
+		};
+		843B2FBF1DF51A51001F13CD /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				843B2FC81DF522DD001F13CD /* BCMainVC.h */,
+				843B2FC91DF522DD001F13CD /* BCMainVC.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		843B2FC01DF51A51001F13CD /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+				84B9E3C21DF7EE360012912E /* BCConstraint.h */,
+				84B9E3C31DF7EE360012912E /* BCConstraint.m */,
+				84B9E3C51DF7EE490012912E /* BCFitHeader.h */,
+				84FAFD141DF6D7CA00371B19 /* BCGestureFun.h */,
+				84FAFD151DF6D7CA00371B19 /* BCGestureFun.m */,
+				84FAFD171DF6D82700371B19 /* BCGeometryFun.h */,
+				84FAFD181DF6D82700371B19 /* BCGeometryFun.m */,
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		843B2FC11DF51A51001F13CD /* View */ = {
+			isa = PBXGroup;
+			children = (
+				84FAFD111DF6D08200371B19 /* BCMaskView.h */,
+				84FAFD121DF6D08200371B19 /* BCMaskView.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		843B2FC21DF51A6D001F13CD /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				84FAFD0F1DF6938E00371B19 /* 1.jpg */,
+				843B30021DF547A7001F13CD /* free@2x.png */,
+				843B2FCB1DF547A0001F13CD /* 1：1@2x.png */,
+				843B2FCC1DF547A0001F13CD /* 3：4@2x.png */,
+				843B2FCD1DF547A0001F13CD /* 3x */,
+				843B2FDC1DF547A0001F13CD /* 4：3@2x.png */,
+				843B2FDD1DF547A0001F13CD /* 9：16@2x.png */,
+				843B2FDE1DF547A0001F13CD /* 16：9@2x.png */,
+				843B2FDF1DF547A0001F13CD /* 编辑icon@2x.png */,
+				843B2FE01DF547A0001F13CD /* 操控点@2x.png */,
+				843B2FE11DF547A0001F13CD /* 关闭@2x.png */,
+				843B2FE21DF547A0001F13CD /* 镜像@2x.png */,
+				843B2FE31DF547A0001F13CD /* 确认@2x.png */,
+				843B2FE41DF547A0001F13CD /* 旋转@2x.png */,
+				843B2FE51DF547A0001F13CD /* 重置未激活@2x.png */,
+				843B2FE61DF547A0001F13CD /* 重置icon@2x.png */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		843B2FCD1DF547A0001F13CD /* 3x */ = {
+			isa = PBXGroup;
+			children = (
+				843B2FCE1DF547A0001F13CD /* 16：9@3x.png */,
+				843B2FCF1DF547A0001F13CD /* 1：1@3x.png */,
+				843B2FD01DF547A0001F13CD /* 3：4@3x.png */,
+				843B2FD11DF547A0001F13CD /* 4：3@3x.png */,
+				843B2FD21DF547A0001F13CD /* 9：16@3x.png */,
+				843B2FD31DF547A0001F13CD /* free@3x.png */,
+				843B2FD41DF547A0001F13CD /* 关闭@3x.png */,
+				843B2FD51DF547A0001F13CD /* 操控点@3x.png */,
+				843B2FD61DF547A0001F13CD /* 旋转@3x.png */,
+				843B2FD71DF547A0001F13CD /* 确认@3x.png */,
+				843B2FD81DF547A0001F13CD /* 编辑icon@3x.png */,
+				843B2FD91DF547A0001F13CD /* 重置-@3x.png */,
+				843B2FDA1DF547A0001F13CD /* 重置未激活@3x.png */,
+				843B2FDB1DF547A0001F13CD /* 镜像@3x.png */,
+			);
+			path = 3x;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,9 +397,38 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				843B2FFE1DF547A0001F13CD /* 确认@2x.png in Resources */,
 				843B2F9C1DF51A0B001F13CD /* LaunchScreen.storyboard in Resources */,
+				843B2FEB1DF547A0001F13CD /* 3：4@3x.png in Resources */,
+				843B2FFA1DF547A0001F13CD /* 编辑icon@2x.png in Resources */,
+				843B2FF41DF547A0001F13CD /* 重置-@3x.png in Resources */,
+				84FAFD101DF6938E00371B19 /* 1.jpg in Resources */,
+				843B30031DF547A7001F13CD /* free@2x.png in Resources */,
 				843B2F991DF51A0B001F13CD /* Assets.xcassets in Resources */,
+				843B2FE81DF547A0001F13CD /* 3：4@2x.png in Resources */,
+				843B2FF81DF547A0001F13CD /* 9：16@2x.png in Resources */,
 				843B2F971DF51A0B001F13CD /* Main.storyboard in Resources */,
+				843B30001DF547A0001F13CD /* 重置未激活@2x.png in Resources */,
+				843B2FE71DF547A0001F13CD /* 1：1@2x.png in Resources */,
+				843B2FF91DF547A0001F13CD /* 16：9@2x.png in Resources */,
+				843B2FF21DF547A0001F13CD /* 确认@3x.png in Resources */,
+				843B2FF51DF547A0001F13CD /* 重置未激活@3x.png in Resources */,
+				843B2FE91DF547A0001F13CD /* 16：9@3x.png in Resources */,
+				843B2FEF1DF547A0001F13CD /* 关闭@3x.png in Resources */,
+				843B2FF61DF547A0001F13CD /* 镜像@3x.png in Resources */,
+				843B2FF01DF547A0001F13CD /* 操控点@3x.png in Resources */,
+				843B2FEC1DF547A0001F13CD /* 4：3@3x.png in Resources */,
+				843B2FF31DF547A0001F13CD /* 编辑icon@3x.png in Resources */,
+				843B2FEE1DF547A0001F13CD /* free@3x.png in Resources */,
+				843B2FF71DF547A0001F13CD /* 4：3@2x.png in Resources */,
+				843B30011DF547A0001F13CD /* 重置icon@2x.png in Resources */,
+				843B2FFB1DF547A0001F13CD /* 操控点@2x.png in Resources */,
+				843B2FEA1DF547A0001F13CD /* 1：1@3x.png in Resources */,
+				843B2FFC1DF547A0001F13CD /* 关闭@2x.png in Resources */,
+				843B2FFD1DF547A0001F13CD /* 镜像@2x.png in Resources */,
+				843B2FFF1DF547A0001F13CD /* 旋转@2x.png in Resources */,
+				843B2FF11DF547A0001F13CD /* 旋转@3x.png in Resources */,
+				843B2FED1DF547A0001F13CD /* 9：16@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,7 +453,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				843B2FCA1DF522DD001F13CD /* BCMainVC.m in Sources */,
 				843B2F941DF51A0B001F13CD /* ViewController.m in Sources */,
+				84FAFD131DF6D08200371B19 /* BCMaskView.m in Sources */,
+				84FAFD191DF6D82700371B19 /* BCGeometryFun.m in Sources */,
+				84FAFD161DF6D7CA00371B19 /* BCGestureFun.m in Sources */,
+				84B9E3C41DF7EE360012912E /* BCConstraint.m in Sources */,
 				843B2F911DF51A0B001F13CD /* AppDelegate.m in Sources */,
 				843B2F8E1DF51A0B001F13CD /* main.m in Sources */,
 			);
@@ -498,6 +686,7 @@
 				843B2FB81DF51A0B001F13CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		843B2FB91DF51A0B001F13CD /* Build configuration list for PBXNativeTarget "BCPhotoTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +695,7 @@
 				843B2FBB1DF51A0B001F13CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		843B2FBC1DF51A0B001F13CD /* Build configuration list for PBXNativeTarget "BCPhotoUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +704,7 @@
 				843B2FBE1DF51A0B001F13CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
